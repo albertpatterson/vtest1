@@ -1,4 +1,3 @@
-import React from 'react';
 import AlbertPatterson from './albert_patterson/albert_patterson'
 
 const MiniProfileList = () => {

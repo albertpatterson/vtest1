@@ -1,5 +1,4 @@
-import React from 'react';
-import albertImage from '../../assets/albert_patterson.jpg';
+import albertImage from '../../../assets/albert_patterson.jpg';
 
 const AlbertPatterson = () => {
   return (
